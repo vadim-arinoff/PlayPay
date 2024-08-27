@@ -1,15 +1,15 @@
 # PlayPay
-a platform for completing tasks and receiving payment for them
-list of current functions:
-•index page with basic information, flexible and changeable
-•the translation button on the site via a .json file
-•separate header and footer files
-•user database
-•authorization/registration
-•pop-up form for sending a request to tech support with pics
-•personal account with user information and email/phone editing
-•admin's personal account with a user management table (CRUD)
-•monitoring/sorting of users
+a platform for completing tasks and receiving payment for them<br />
+list of current functions:<br />
+•index page with basic information, flexible and changeable<br />
+•the translation button on the site via a .json file<br />
+•separate header and footer files<br />
+•user database<br />
+•authorization/registration<br />
+•pop-up form for sending a request to tech support with pics<br />
+•personal account with user information and email/phone editing<br />
+•admin's personal account with a user management table (CRUD)<br />
+•monitoring/sorting of users<br />
 ![1](https://github.com/user-attachments/assets/d3700bfc-2b74-4942-ac0c-c05019b4acd7)
 ![2](https://github.com/user-attachments/assets/97030f5f-3022-4ce4-80ca-b7ba2b5525d7)
 ![3](https://github.com/user-attachments/assets/f193adf4-0fdc-47c7-9386-8baf47ab8498)
